@@ -12,13 +12,13 @@ This project implements a fairness-aware Mixture of Experts model that addresses
 - **Description**: Large-scale dataset of skin lesions with Fitzpatrick skin type annotations
 - **Classes**: 3, 9, or 114 classes (configurable)
 - **Sensitive Attribute**: Skin color (light/dark binary classification)
-- **Paper**: [Fitzpatrick17k: A Dataset for Evaluating Skin Lesion Classification](https://arxiv.org/abs/2008.07396)
+- **Paper**: [Fitzpatrick17k: A Dataset for Evaluating Skin Lesion Classification](https://openaccess.thecvf.com/content/CVPR2021W/ISIC/papers/Groh_Evaluating_Deep_Neural_Networks_Trained_on_Clinical_Images_in_Dermatology_CVPRW_2021_paper.pdf)
 
 ### ISIC2019
 - **Description**: International Skin Imaging Collaboration 2019 challenge dataset
 - **Classes**: 9 classes
 - **Sensitive Attributes**: Gender or age (configurable)
-- **Paper**: [ISIC 2019 Challenge](https://challenge2019.isic-archive.com/)
+- **Website**: [ISIC 2019 Challenge](https://challenge2019.isic-archive.com/)
 
 ## Usage
 
